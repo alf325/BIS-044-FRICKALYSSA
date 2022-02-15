@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#Data dfiles that are too big
+yellow_tripdata*.csv
