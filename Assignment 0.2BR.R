@@ -17,3 +17,5 @@ theDF$x[3]
 # Editing names
 names(theDF)<-c("Popularity", "Team Strength", "Sport")
 sd(theDF$`Team Strength`)
+
+#50/50
