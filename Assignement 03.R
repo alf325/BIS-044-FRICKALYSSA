@@ -18,3 +18,4 @@ print("average trip distance:")
 print(y/z)
 print("average total amount:")
 print(w/z)
+#100/100
