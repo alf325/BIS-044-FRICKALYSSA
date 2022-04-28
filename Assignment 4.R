@@ -35,3 +35,5 @@ for (i in D1){
 write_xlsx(D1,"Assignment 4/dataset1.xls")
 Num <- D1 %>% count(Title)
 View(Num)
+#-10 missing some replace commands
+#90/100
