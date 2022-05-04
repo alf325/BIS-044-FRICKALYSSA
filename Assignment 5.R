@@ -22,3 +22,4 @@ ggplot(data = df) +
   ylab("Tonnage") +
   ylim(0, 4000) +
   theme_minimal()
+  #-5 which 95/100
